@@ -1,0 +1,6 @@
+use retrieval;
+fn main() {
+    let result = retrieval_at_k([7, 7, 9, 12], [7, 9], 3);
+    println!(at(result, 1));
+    println!(at(result, 2));
+}
