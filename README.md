@@ -1,4 +1,4 @@
-<img src="assets/logo.png" width="88" height="88" alt="Blyx retrieval logo">
+<img src="assets/logo.png" width="88" height="88" alt="Blyx penguin lifting a repeated document out of a ranked stack.">
 
 # Blyx Retrieval
 
